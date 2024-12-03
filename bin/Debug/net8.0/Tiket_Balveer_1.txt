@@ -1,0 +1,4 @@
+Tiket Bioskop
+Film: Balveer
+Kursi: 1
+Pembayaran: Rp20.000,00

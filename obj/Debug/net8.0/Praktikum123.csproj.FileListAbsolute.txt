@@ -1,0 +1,14 @@
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\bin\Debug\net8.0\Praktikum123.exe
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\bin\Debug\net8.0\Praktikum123.deps.json
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\bin\Debug\net8.0\Praktikum123.runtimeconfig.json
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\bin\Debug\net8.0\Praktikum123.dll
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\bin\Debug\net8.0\Praktikum123.pdb
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\obj\Debug\net8.0\Praktikum123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\obj\Debug\net8.0\Praktikum123.AssemblyInfoInputs.cache
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\obj\Debug\net8.0\Praktikum123.AssemblyInfo.cs
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\obj\Debug\net8.0\Praktikum123.csproj.CoreCompileInputs.cache
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\obj\Debug\net8.0\Praktikum123.dll
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\obj\Debug\net8.0\refint\Praktikum123.dll
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\obj\Debug\net8.0\Praktikum123.pdb
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\obj\Debug\net8.0\Praktikum123.genruntimeconfig.cache
+C:\Penyimpanan Utama\Documents\Coding\C#\Praktikum123\obj\Debug\net8.0\ref\Praktikum123.dll
